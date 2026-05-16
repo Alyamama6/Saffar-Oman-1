@@ -3,7 +3,6 @@ import 'package:firebase_database/firebase_database.dart';
 
 class PlacesScreen extends StatefulWidget {
   const PlacesScreen({super.key});
-
   @override
   State<PlacesScreen> createState() => _PlacesScreenState();
 }
