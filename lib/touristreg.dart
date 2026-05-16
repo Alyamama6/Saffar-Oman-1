@@ -5,7 +5,6 @@ import 'package:firebase_database/firebase_database.dart';
 
 class TouristRegisterScreen extends StatefulWidget {
   const TouristRegisterScreen({super.key});
-
   @override
   State<TouristRegisterScreen> createState() => _TouristRegisterScreenState();
 }
