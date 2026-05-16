@@ -4,7 +4,6 @@ import 'package:firebase_database/firebase_database.dart';
 
 class HistoryScreen extends StatefulWidget {
   const HistoryScreen({super.key});
-
   @override
   State<HistoryScreen> createState() => _HistoryScreenState();
 }
