@@ -14,7 +14,6 @@ class WelcomeScreen extends StatelessWidget {
       );
     }
   }
-
   void _goToLogin(BuildContext context) {
     try {
       debugPrint('Navigating to /touristLogin');
