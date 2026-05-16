@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'settingscontroller.dart';
-
 class SettingsScreen extends StatefulWidget {
   final SettingsController controller;
 
